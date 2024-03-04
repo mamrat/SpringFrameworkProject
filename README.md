@@ -1,2 +1,3 @@
 # SpringFrameworkProject
-Basic Spring Framework project with xml config
+Basic Spring Framework project
+
