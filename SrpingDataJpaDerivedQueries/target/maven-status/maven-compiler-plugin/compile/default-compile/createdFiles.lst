@@ -1,0 +1,4 @@
+com\example\springdatajpa\model\Employee.class
+com\example\springdatajpa\repository\EmployeeRepository.class
+com\example\springdatajpa\SpringdatajpaApplication.class
+com\example\springdatajpa\JpaAppConfiguration.class
